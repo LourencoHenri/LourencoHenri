@@ -1,4 +1,4 @@
-### Hi there
+### Hi there, I'm Henrique Lourenço
 
 - I’m currently looking for work;
 - I’m currently learning HTML, CSS, JS, SQL, NODE and React;
