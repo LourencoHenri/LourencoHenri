@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-@lourencohenri-1261a0?style=flat-square&labelColor=1261a0&logo=instagram&logoColor=white&link=https://www.instagram.com/lourencohenri/)](https://www.instagram.com/lourencohenri/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Lourenço-1261a0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-lourenco/)](https://www.linkedin.com/in/henrique-lourenco/) 
-[![Microsoft_Outlook Badge](https://img.shields.io/badge/-henri.lourenco@outlook.com-1261a0?style=flat-square&logo=Microsoft_Outlook&logoColor=white&link=mailto:henri.lourenco@outlook.com)](mailto:henri.lourenco@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-henri.lourenco@outlook.com-1261a0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henri.lourenco@outlook.com)](mailto:henri.lourenco@outlook.com)
 
 - I’m learning HTML, CSS, JS, SQL, NODE and React;
 - How to reach me:
