@@ -1,6 +1,6 @@
 # Henrique Lourenço
 
-I'm beginner in the programing world, currently I develop projects to learn and increase my skills.
+I'm beginner in the programming world, currently I develop projects to learn and increase my skills.
 
 #### Contact
 
