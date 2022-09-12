@@ -17,3 +17,6 @@ I'm beginner in the programming world, currently I develop projects to learn and
 ![HTML](https://img.shields.io/badge/-HTML-1261a0?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1261a0?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=flat&logo=github&logoColor=white)&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues&show_icons=false)](https://github.com/LourencoHenri/github-readme-stats)
