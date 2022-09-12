@@ -19,7 +19,7 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 <div display="flex">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
-<div/>
+</div>
   
 ## Contact
 
@@ -27,4 +27,4 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-henri.lourenco@outlook.com-1261a0?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:henri.lourenco@outlook.com)](mailto:henri.lourenco@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-lourencohenri-1261a0?style=for-the-badge&labelColor=1261a0&logo=instagram&logoColor=white&link=https://www.instagram.com/lourencohenri/)](https://www.instagram.com/lourencohenri/) 
 
-<div/> 
+</div> 
