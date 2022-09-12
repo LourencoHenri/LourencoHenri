@@ -16,7 +16,7 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 
 ### Stats
 
-<div display="flex">
+<div display="flex" align="center">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
