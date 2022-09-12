@@ -15,10 +15,11 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### Stats
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 
+<div>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
+<div/>
   
 ## Contact
 
