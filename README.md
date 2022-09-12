@@ -17,16 +17,3 @@ I'm beginner in the programming world, currently I develop projects to learn and
 ![HTML](https://img.shields.io/badge/-HTML-1261a0?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1261a0?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=flat&logo=github&logoColor=white)&nbsp;
-
-- uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: LourencoHenri
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
