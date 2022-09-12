@@ -1,5 +1,3 @@
-<div align="center">
-
 # Henrique Lourenço
 
 I'm enthusiast of the best technologies, currently I develop projects to learn and increase my skills.
@@ -17,7 +15,7 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 ### Stats
 
 <div display="flex" align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
   
@@ -26,5 +24,3 @@ I'm enthusiast of the best technologies, currently I develop projects to learn a
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Lourenço-1261a0?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-lourenco/)](https://www.linkedin.com/in/henrique-lourenco/) 
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-henri.lourenco@outlook.com-1261a0?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:henri.lourenco@outlook.com)](mailto:henri.lourenco@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-lourencohenri-1261a0?style=for-the-badge&labelColor=1261a0&logo=instagram&logoColor=white&link=https://www.instagram.com/lourencohenri/)](https://www.instagram.com/lourencohenri/) 
-
-</div> 
