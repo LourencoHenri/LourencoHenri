@@ -18,8 +18,8 @@ Visit my web site https://lourencohenri.github.io/lourenco.com/.
 ### Stats
 
 <div display="flex" align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
   
 ## Contact
