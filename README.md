@@ -18,7 +18,7 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 ### Stats
 
 <div display="flex" align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/ap  i?username=LourencoHenri&theme=github_dark&hide=contribs,issues"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/ap  i?username=LourencoHenri&theme=github_dark&hide=contribsissues"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
   
