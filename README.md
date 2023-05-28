@@ -8,11 +8,11 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFAB00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFAB00?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-FFAB00?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-FFAB00?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-FFAB00?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1261a0?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1261a0?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-1261a0?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-1261a0?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1261a0?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### Stats
