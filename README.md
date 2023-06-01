@@ -30,6 +30,9 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
   ![CSS](https://img.shields.io/badge/-CSS-1261a0?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
   ![sass](https://img.shields.io/badge/-sass-1261a0?style=for-the-badge&logo=sass&logoColor=white)&nbsp;  
 
+## Skills
+  
+  
 ### Stats
 
 <div display="flex" align="center">
