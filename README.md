@@ -39,7 +39,7 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
   
-## Contact
+### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Lourenço-1261a0?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-lourenco/)](https://www.linkedin.com/in/henrique-lourenco/)
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-henri.lourenco@outlook.com-1261a0?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:henri.lourenco@outlook.com)](mailto:henri.lourenco@outlook.com)
