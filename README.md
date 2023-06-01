@@ -11,16 +11,19 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 #### Frameworks
   ![React](https://img.shields.io/badge/-React-1261a0?style=for-the-badge&logo=react&logoColor=white)&nbsp;
   ![Next](https://img.shields.io/badge/-Next-1261a0?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-### Systems and platforms 
+  
+#### Systems and platforms 
   ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-1261a0?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![figma](https://img.shields.io/badge/-figma-1261a0?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-### Styles
+  
+#### Styles
   ![mui](https://img.shields.io/badge/-mui-1261a0?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
   ![bootstrap](https://img.shields.io/badge/-bootstrap-1261a0?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
   ![styledcomponents](https://img.shields.io/badge/-styledcomponents-1261a0?style=for-the-badge&logo=styledcomponents&logoColor=white)&nbsp;
   ![tailwindcss](https://img.shields.io/badge/-tailwindcss-1261a0?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-### Languages
+  
+#### Languages
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1261a0?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1261a0?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-1261a0?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
