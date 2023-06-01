@@ -14,7 +14,8 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 ![HTML](https://img.shields.io/badge/-HTML-1261a0?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1261a0?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Next](https://img.shields.io/badge/-Next-1261a0?style=for-the-badge&logo=Next&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/-nextdotjs-1261a0?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+  
   
 
 ### Stats
