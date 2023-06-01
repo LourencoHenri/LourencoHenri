@@ -8,7 +8,7 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 
 ## Skills
   
-### Frameworks
+#### Frameworks
   ![React](https://img.shields.io/badge/-React-1261a0?style=for-the-badge&logo=react&logoColor=white)&nbsp;
   ![Next](https://img.shields.io/badge/-Next-1261a0?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ### Systems and platforms 
