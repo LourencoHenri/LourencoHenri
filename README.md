@@ -15,7 +15,15 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 ![CSS](https://img.shields.io/badge/-CSS-1261a0?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-1261a0?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-  
+![Git](https://img.shields.io/badge/-Git-1261a0?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![github](https://img.shields.io/badge/-github-1261a0?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![figma](https://img.shields.io/badge/-figma-1261a0?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![styledcomponents](https://img.shields.io/badge/-styledcomponents-1261a0?style=for-the-badge&logo=styledcomponents&logoColor=white)&nbsp;
+![mui](https://img.shields.io/badge/-mui-1261a0?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![styledcomponents](https://img.shields.io/badge/-styledcomponents-1261a0?style=for-the-badge&logo=styledcomponents&logoColor=white)&nbsp;
+![bootstrap](https://img.shields.io/badge/-bootstrap-1261a0?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![sass](https://img.shields.io/badge/-sass-1261a0?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-1261a0?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
   
 
 ### Stats
