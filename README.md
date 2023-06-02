@@ -1,3 +1,7 @@
+<script>
+  const color = red
+</script>
+
 <div align="center">
 
 # Henrique Lourenço
