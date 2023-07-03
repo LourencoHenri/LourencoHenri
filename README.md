@@ -35,7 +35,6 @@ Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://louren
 ### Stats
 
 <div display="flex" align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lourencohenri&theme=github_dark"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoHenri&theme=github_dark&layout=compact"/> 
 </div>
   
