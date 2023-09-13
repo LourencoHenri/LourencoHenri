@@ -2,7 +2,7 @@
 
 # Henrique Lourenço
 
-I'm enthusiast of the best technologies. Currently I develop projects to learn and increase my skills.
+I'm enthusiast of the best technologies. I develop projects to learn and increase my skills.
 Visit my web site [www.lourencohenri.github.io/lourencoPortfolio](https://lourencohenri.github.io/lourencoPortfolio/).
 
 ## Skills
